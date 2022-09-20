@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Денис Киршенин](https://up.htmlacademy.ru/htmlcss/35/user/2193861).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый] (https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
